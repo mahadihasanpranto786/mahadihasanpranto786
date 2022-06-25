@@ -32,6 +32,7 @@ I loved to research technology's and also problems solver.
 ![Ajax](https://img.shields.io/badge/AJAX-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ### 🛢Database :
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=blue)
+![Sql](https://img.shields.io/badge/SQL-00000F?style=flat-square&logo=sql&logoColor=blue)
 ### :sparkles:Others Tools:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
