@@ -1,6 +1,6 @@
 # Hello!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-**I am** [**Pranto**](https://github.com/mahadihasanpranto786)！**I am a Web Developer** 👨‍💻 **who is passionate about codding and open source.**
+**I am** [**Pranto**](https://github.com/mahadihasanpranto786)！**I am a Web Developer** 👨‍💻 **who is passionate about codding and.**
 
 <a href="https://www.linkedin.com/in/mahadihasanpranto786" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mpranto394@gmail.com)](mailto:mpranto394@gmail.com)
@@ -10,7 +10,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pranto)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)]()-->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mahadihasanpranto786&show_icons=true&hide_border=true">
 
 ## 🧐 About me:
 
