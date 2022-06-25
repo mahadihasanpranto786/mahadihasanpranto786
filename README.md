@@ -28,6 +28,7 @@ I loved to research technology's and also problems solver.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
 ### :fire:Backend :
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=Codeigniter)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Ajax](https://img.shields.io/badge/AJAX-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ### 🛢Database :
