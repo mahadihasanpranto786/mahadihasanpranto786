@@ -18,7 +18,7 @@ I loved to research technology's and also problems solver.
 <br/>:heavy_check_mark: **Post :** Junior Web Developer :computer:	
 <br/>:heavy_check_mark: **Learning :** Full-Stack :zap: | Open-Source :fire:	
 <br/>:heavy_check_mark: **Hobbies :** Books :books: | Codding :green_heart: | Music :headphones: | Piano :musical_keyboard:
-## ⚡ Technologies
+/*## ⚡ Technologies
 ### :art:Frontend :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jQuery)
@@ -40,4 +40,4 @@ I loved to research technology's and also problems solver.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 ![VS](https://img.shields.io/badge/Trello-0052CC?flat-square&logo=trello&logoColor=white)
-
+*/
