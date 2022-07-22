@@ -3,7 +3,7 @@
 **I am** [**Pranto**](https://github.com/mahadihasanpranto786)！**I am a Web Developer** 👨‍💻 **who is passionate about codding and.**
 
 <a href="https://www.linkedin.com/in/mahadihasanpranto786" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mpranto394@gmail.com)](mailto:mpranto394@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:typetopranto@gmail.com)](mailto:typetopranto@gmail.com)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UCKDxzm83KzZb-zz_AKGK5Ig) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/mehedihasanpranto786)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/)](https://space.bilibili.com/)
@@ -14,11 +14,11 @@
 ## 🧐 About me:
 
 I loved to research technology's and also problems solver.
-<br/>:heavy_check_mark: **How to reach me :** mpranto394@gmail.com
+<br/>:heavy_check_mark: **How to reach me :** typetopranto@gmail.com
 <br/>:heavy_check_mark: **Post :** Junior Web Developer :computer:	
 <br/>:heavy_check_mark: **Learning :** Full-Stack :zap: | Open-Source :fire:	
 <br/>:heavy_check_mark: **Hobbies :** Books :books: | Codding :green_heart: | Music :headphones: | Piano :musical_keyboard:
-/*## ⚡ Technologies
+## ⚡ Technologies
 ### :art:Frontend :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jQuery)
@@ -40,4 +40,4 @@ I loved to research technology's and also problems solver.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 ![VS](https://img.shields.io/badge/Trello-0052CC?flat-square&logo=trello&logoColor=white)
-*/
+
