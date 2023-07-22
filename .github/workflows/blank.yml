@@ -1,0 +1,33 @@
+name: Close Issue or PR After 5 Minutes
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+jobs:
+  close-issue-or-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Wait for 5 minutes
+        uses: actions/wait@v2
+        with:
+          time: '5m'
+
+      - name: Close the issue or pull request
+        if: github.event_name == 'issues'
+        uses: peter-evans/close-issue@v1
+        with:
+          comment: 'This issue was automatically closed after 5 minutes of inactivity.'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Close the pull request
+        if: github.event_name == 'pull_request'
+        uses: peter-evans/close-pull-request@v1
+        with:
+          comment: 'This pull request was automatically closed after 5 minutes of inactivity.'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
